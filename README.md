@@ -29,5 +29,11 @@ Here are some ideas to get you started:
           <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
           </div>
     </div>
+
+<div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=TaeHo-asdf&bg_color=180,fde0d3,00000000&title_color=2c2121&text_color=2c2121"
+         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaeHo-asdf&layout=compact&bg_color=180,fde0d3,00000000&title_color=2c2121&text_color=2c2121"
+           /> </div> 
+    </div>
     
     
