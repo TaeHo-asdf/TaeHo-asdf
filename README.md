@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=jfahdapsfasdfjasdf&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=쌤롤접으세요ㅋ&fontSize=90" />
